@@ -19,5 +19,5 @@ foundation, with my main focus on the SOC Level 1 path coming up next.
 
 ## About Me
 
-Learning cybersecurity from the ground up, aiming for a SOC Analyst role. 
+16 year old. Learning cybersecurity from the ground up, aiming for a SOC Analyst role. 
 Following a path of networking fundamentals → Security+ → hands-on labs.
