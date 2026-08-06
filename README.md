@@ -8,4 +8,16 @@ focused on the SOC Analyst / Blue Team path.
 
 | Room | Path | Status | Write-Up |
 |---   |---   |---     |---       |
-| Offensive Security Intro | Red Team | ✅ Complete | [Link](
+| Offensive Security Intro | Red Team | ✅ Complete | [Link](offensive-security-intro.md)
+
+
+
+## What I'm Learning
+
+Currently exploring both sides of security to build a well-rounded 
+foundation, with my main focus on the SOC Level 1 path coming up next.
+
+## About Me
+
+Learning cybersecurity from the ground up, aiming for a SOC Analyst role. 
+Following a path of networking fundamentals → Security+ → hands-on labs.
