@@ -4,7 +4,7 @@ focused on the SOC Analyst / Blue Team path.
 
 🔗 My TryHackMe Profile: https://tryhackme.com/p/truedawrin
 
-## Progress
+## Cyber Security 101 Progress
 
 | Room | Path | Status | Write-Up |
 |---   |---   |---     |---       |
