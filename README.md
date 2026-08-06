@@ -20,7 +20,7 @@ My goal is to develop practical defensive security skills including:
 
 ---
 
-# Curentlly Learning Skills
+# Currently Learning Skills
 
 ## Security Operations
 
