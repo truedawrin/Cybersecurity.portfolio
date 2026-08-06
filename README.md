@@ -4,8 +4,7 @@
 ![Learning](https://img.shields.io/badge/Status-Learning-green)
 
 ## About Me
-
-I am a cybersecurity student focused on becoming a Security Operations Center (SOC) Analyst.
+Aspiring Cybersecurity Professional | Self-Taught Cybersecurity Learner | SOC Analyst Path
 
 This repository documents my journey through cybersecurity labs, security investigations, detection engineering, and automation projects.
 
