@@ -20,7 +20,7 @@ My goal is to develop practical defensive security skills including:
 
 ---
 
-# Skills
+# Curentlly Learning Skills
 
 ## Security Operations
 
@@ -56,6 +56,3 @@ Currently learning:
 - Python
 - Bash
 - PowerShell
-
-
-# Portfolio Structure
