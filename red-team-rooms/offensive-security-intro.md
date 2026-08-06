@@ -3,7 +3,7 @@
 **Path:** Red Team (side exploration)  
 **Difficulty:** Easy  
 **Link:** [TryHackMe Room](https://tryhackme.com/room/offensivesecurityintrokKx12)  
-**Date Completed:** August 6 2026
+**Date Completed:** August 5 2026
 
 ## Overview
 An introductory room covering the basics of offensive security — the 
