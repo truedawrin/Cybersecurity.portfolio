@@ -8,7 +8,7 @@ focused on the SOC Analyst / Blue Team path.
 
 | Room | Path | Status | Write-Up |
 |---   |---   |---     |---       |
-| Offensive Security Intro | Red Team | ✅ Complete | [Link](offensive-security-intro.md)
+| Offensive Security Intro | Red Team | ✅ Complete | [Link](red-team-rooms/offensive-security-intro.md)
 
 
 
