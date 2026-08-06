@@ -9,7 +9,7 @@ focused on the SOC Analyst / Blue Team path.
 | Room | Path | Status | Write-Up |
 |---   |---   |---     |---       |
 | Offensive Security Intro | Red Team | ✅ Complete | [Link](red-team-rooms/offensive-security-intro.md)
-
+| Defensive Security Intro | Blue Team| ✅ Complete | [Link](blue-team-rooms/defensive-security-intro.md)
 
 
 ## What I'm Learning
