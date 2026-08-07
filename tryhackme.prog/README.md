@@ -8,9 +8,9 @@ focused on the SOC Analyst / Blue Team path.
 
 | Room | Path | Status | Write-Up |
 |---   |---   |---     |---       |
-| Offensive Security Intro | Red Team | ✅ Complete | [Link](Cyber-Security-101/offensive-security-intro.md)
-| Defensive Security Intro | Blue Team| ✅ Complete | [Link](Cyber-Security-101/defensive-security-intro.md)
-| Search Skills | General | ✅ Complete | [Link](Cyber-Security-101/search-skills.md)
+| Offensive Security Intro | Red Team | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/offensive-security-intro.md)
+| Defensive Security Intro | Blue Team| ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/defensive-security-intro.md)
+| Search Skills | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/search-skills.md)
 
 
 ## What I'm Learning
