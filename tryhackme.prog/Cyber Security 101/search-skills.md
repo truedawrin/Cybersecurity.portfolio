@@ -1,12 +1,12 @@
-# [Search Skills]
+# Search Skills
 
-**Path:** [General]  
-**Difficulty:** [Easy]  
+**Path:** General  
+**Difficulty:** Easy  
 **Link:** [TryHackMe Room](https://tryhackme.com/room/searchskillscS)  
-**Date Completed:** [August 2026]
+**Date Completed:** August 2026
 
 ## Overview
-This room showed me examples of popular websites and services to gather information both offensive and defensive.
+This room showed me examples of popular websites and services to gather information both offensively and defensively.
 
 ## Tools Used
 - Shodan (TryScanMe)
