@@ -1,4 +1,4 @@
-# [Search Skills]
+# Search Skills
 
 **Path:** [General]  
 **Difficulty:** [Easy]  
@@ -6,7 +6,7 @@
 **Date Completed:** [August 2026]
 
 ## Overview
-This room showed me examples of popular websites and services to gather information both offensive and defensive.
+This room showed me examples of popular websites and services to gather information both offensively and defensively.
 
 ## Tools Used
 - Shodan (TryScanMe)
