@@ -10,7 +10,7 @@ focused on the SOC Analyst / Blue Team path.
 |---   |---   |---     |---       |
 | Offensive Security Intro | Red Team | ✅ Complete | [Link](red-team-rooms/offensive-security-intro.md)
 | Defensive Security Intro | Blue Team| ✅ Complete | [Link](blue-team-rooms/defensive-security-intro.md)
-| Search Skills| General | ✅ Complete | [Link](https://tryhackme.com/room/searchskillscS)
+| Search Skills| General | ✅ Complete | [Link](search-skills.md)
 
 
 ## What I'm Learning
