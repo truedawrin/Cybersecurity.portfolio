@@ -16,7 +16,7 @@ focused on the SOC Analyst / Blue Team path.
 ## What I'm Learning
 
 Currently exploring both sides of security to build a well-rounded 
-foundation, with my main focus on the SOC Level 1 path coming up next :)
+foundation, with my main focus on the SOC Level 1 path coming up next.
 
 ## About Me
 
