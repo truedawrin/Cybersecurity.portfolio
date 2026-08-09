@@ -4,7 +4,7 @@
 ![Learning](https://img.shields.io/badge/Status-Learning-green)
 
 ## About Me
-Aspiring Cybersecurity Professional | Self-Taught Cybersecurity Learner | SOC Analyst Path
+Self-Taught Cybersecurity Learner | Blue Team and Red Team paths
 
 This repository documents my journey through cybersecurity labs, security investigations, detection engineering, and automation projects.
 
