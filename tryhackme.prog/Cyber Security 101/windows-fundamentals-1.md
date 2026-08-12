@@ -6,7 +6,7 @@
 **Date Completed:** [August 2026]
 
 ## Overview
-Sowed Alot about windows fundamentals like destok,task view,taskbar,user account admin and standrad user.
+Showed Alot about windows fundamentals like destok,task view,taskbar,user account admin and standrad user.
 
 
 ## What I Learned
