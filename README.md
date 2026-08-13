@@ -17,6 +17,13 @@ My goal is to develop practical defensive security skills including:
 - Log investigation
 - Security automation
 
+## 💻 Projects
+
+<div align="left">
+
+[![true-touch](https://img.shields.io/badge/⚡_true--touch-Mass_File%2FDir_Creator-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/truedawrin/true-touch)
+
+
 ---
 
 # Currently Learning Skills
