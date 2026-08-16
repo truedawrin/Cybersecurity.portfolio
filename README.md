@@ -25,7 +25,7 @@ My goal is to develop practical defensive security skills including:
 
 🔎 IP Sweep
 
-[![IP Sweep](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnubash&logoColor=white)](https://github.com/truedawrin/ip-sweep)
+[![IP Sweep](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnubash&logoColor=white)](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/ip-sweep.md))
 
 A lightweight Bash-based IP sweep tool for discovering active hosts on an authorized network.
 
