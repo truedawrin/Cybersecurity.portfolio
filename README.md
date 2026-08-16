@@ -2,8 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Focus-Pen%20tester%20and%20Soc%20analyst-purple)
 ![Learning](https://img.shields.io/badge/Status-Learning-green)
-![TryHackMe Profile](https://tryhackme.com/p/truedawrin)
-![Hack The Box Profile](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
+[TryHackMe Profile](https://tryhackme.com/p/truedawrin)
+[Hack The Box Profile](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
 
 ## About Me
 Self-Taught Cybersecurity Learner | Blue Team and Red Team paths
