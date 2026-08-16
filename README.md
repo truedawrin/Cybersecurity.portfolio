@@ -1,4 +1,4 @@
-# SOC Analyst Cybersecurity Portfolio
+#  Cybersecurity Portfolio
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-SOC%20Analyst-blue)
 ![Learning](https://img.shields.io/badge/Status-Learning-green)
