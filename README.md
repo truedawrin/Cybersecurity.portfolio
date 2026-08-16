@@ -1,6 +1,6 @@
 #  Cybersecurity Portfolio
 
-![Cybersecurity](https://img.shields.io/badge/Focus-SOC%20Analyst-blue)
+![Static Badge](https://img.shields.io/badge/Focus-Pen%20tester%20and%20Soc%20analyst-purple)
 ![Learning](https://img.shields.io/badge/Status-Learning-green)
 
 ## About Me
