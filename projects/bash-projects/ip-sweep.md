@@ -30,4 +30,5 @@ fi
 ```
 
 # Showcase
-![alt text](image.png)
+
+[screenshot](projects/bash-projects/images/image.png)

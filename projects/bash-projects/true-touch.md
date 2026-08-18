@@ -77,4 +77,4 @@ echo "Done. $count item(s) processed."
 
 ## Showcase
 
-![alt text](image.png)
+[screenshot](projects/bash-projects/images/image2.png)
