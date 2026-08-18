@@ -3,6 +3,7 @@
 **True Touch** is a Bash-based utility designed to make creating multiple files and directories faster and easier.
 
 Instead of manually running `touch` and `mkdir` commands repeatedly, True Touch uses a few simple prompts to let the user **mass-produce files and directories in one go**.
+to check it out for yourself click this [True Touch](https://github.com/truedawrin/true-touch)
 
 ### ⚡ What It Does
 
