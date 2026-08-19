@@ -3,6 +3,7 @@
 **Path:** General  
 **Difficulty:** Easy 
 **Link:** [TryHackMe Room][https://tryhackme.com/room/windowsfundamentals2x0x]
+
 **Date Completed:** August 2026
 
 ## Overview
