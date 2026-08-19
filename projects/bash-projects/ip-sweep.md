@@ -31,4 +31,4 @@ fi
 
 # Showcase
 
-[screenshot](projects/bash-projects/images/image.png)
+[screenshot](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/images/image.png)
