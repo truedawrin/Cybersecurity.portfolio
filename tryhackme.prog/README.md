@@ -14,7 +14,7 @@ I will only make Write ups for actual important rooms and rooms that teaches me 
 | Search Skills | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/search-skills.md)
 | Linux Fundamentals Part 1 | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/linux-fundamentals(pt1).md)
 | Windows Fundamentals Part 1 | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/windows-fundamentals-1.md)
-
+| Windows Fundamentals Part 2 | General | ✅ Complete | [Link](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/windows-fundamentals-2.md)
 
 ## What I'm Learning
 
