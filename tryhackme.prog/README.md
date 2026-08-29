@@ -19,9 +19,5 @@ I will only make Write ups for actual important rooms and rooms that teaches me 
 ## What I'm Learning
 
 Currently exploring both sides of security to build a well-rounded 
-foundation, with my main focus on the SOC Level 1 path coming up next.
+foundation, with my main focus on the  Junior penetration testing path.
 
-## About Me
-
-16 year old. Learning cybersecurity from the ground up, aiming for a SOC Analyst role. 
-Following a path of networking fundamentals → Security+ → hands-on labs.
