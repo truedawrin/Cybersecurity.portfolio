@@ -3,7 +3,7 @@
 **Path:** General  
 **Difficulty:** Easy  
 **Link:** [TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart1)  
-**Date Completed:** [August 2026]
+**Date Completed:** August 2026
 
 ## Overview
 This Room Introduces you to Linux Fundamentals first by telling you where its used, how its used and how it works.
