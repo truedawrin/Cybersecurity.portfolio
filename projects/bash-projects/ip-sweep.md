@@ -1,4 +1,4 @@
-# Bash IP Sweep
+# 💲Bash IP Sweep
 
 # Overview
 **IP sweep or ICMP sweep** is a reconnaissance technique used to discover which IP addresses on a network are active/alive.
