@@ -3,7 +3,7 @@ Documenting my cybersecurity learning journey through TryHackMe rooms —
 focused on the SOC Analyst / Blue Team path.
 I will only make Write ups for actual important rooms and rooms that teaches me something new.
 
-🔗 My TryHackMe Profile: https://tryhackme.com/p/truedawrin
+🔗 My TryHackMe Profile: [Profile](https://tryhackme.com/p/truedawrin)
 
 ## Progress
 
