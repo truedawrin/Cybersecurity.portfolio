@@ -8,8 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)](knowledge/python/README.md)
 [![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](knowledge/bash/README.md)
 [![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white)](knowledge/networking/README.md)
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/truedawrin)
-[![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](tryhackme/README.md)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](hackthebox/README.md)
 
 ## 👋 About
 
