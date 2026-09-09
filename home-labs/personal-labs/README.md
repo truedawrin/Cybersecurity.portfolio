@@ -56,12 +56,3 @@ These labs may cover:
 | 🧪 Security Scenarios | Realistic simulated cybersecurity problems               |
 
 ---
-
-<<<<<<< HEAD
-## 🧪 Labs
-
-| Lab                                        | Category | Skills       | Status        |
-| ------------------------------------------ | -------- | ------------ | ------------- |
-| [Recon Notebook](python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progrss |
-=======
->>>>>>> 16a076f2135bdb417fe35d2f8d00636bbf4aedcb
