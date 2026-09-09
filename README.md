@@ -87,13 +87,13 @@ A Bash utility designed to rapidly create files and directories through a small 
 
 ## 🧪 Home Labs
 
-| Lab                                                      | Purpose                                                          |
-| -------------------------------------------------------- | ---------------------------------------------------------------- |
-| [Kali Linux Lab](home-labs/kali-linux/README.md)         | Practice offensive security tools in an isolated VM              |
-| [Networking Lab](home-labs/networking/README.md)         | Learn addressing, interfaces, routing, ARP, and traffic          |
-| [Virtualization Lab](home-labs/virtualization/README.md) | Build and manage safe security testing environments              |
-| [SOC Lab](home-labs/soc-lab/README.md)                   | Future lab for logs, detection, investigation, and SIEM practice |
-| [Personal Lab](home-labs/personal-labs/README.md)        | Self-created security scenarios                                  |
+| Lab                                                            | Status         | Purpose
+| -------------------------------------------------------------- | -------------- | -------------------------------------------                     |
+| [Kali Linux Lab](home-labs/kali-linux/README.md)               | 🟡 In Progress | Practice offensive security tools in an isolated VM             |
+| [Networking](home-labs/networking/README.md)                   | 🟡 In Progress | Learn addressing, interfaces, routing, ARP, and traffic         | 
+| [SOC Lab](home-labs/soc-lab/README.md)                         | 🔴 Planned     | Build and manage safe security testing environments             |
+| [Virtualization](home-labs/virtualization/README.md)           | 🔴 Planned     | Future lab for logs, detection, investigation, and SIEM practice|
+| [Personal Lab](home-labs/personal-labs/README.md)              | 🟢 Active      | Self-created security scenarios                                 |
 
 ## 🧩 TryHackMe
 
