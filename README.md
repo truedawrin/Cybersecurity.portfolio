@@ -93,6 +93,7 @@ A Bash utility designed to rapidly create files and directories through a small 
 | [Networking Lab](home-labs/networking/README.md)         | Learn addressing, interfaces, routing, ARP, and traffic          |
 | [Virtualization Lab](home-labs/virtualization/README.md) | Build and manage safe security testing environments              |
 | [SOC Lab](home-labs/soc-lab/README.md)                   | Future lab for logs, detection, investigation, and SIEM practice |
+| [Personal Lab](home-labs/personal-labs/README.md)        | Self-created security scenarios                                  |
 
 ## 🧩 TryHackMe
 
