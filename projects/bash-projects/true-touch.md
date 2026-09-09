@@ -76,6 +76,9 @@ echo ""
 echo "Done. $count item(s) processed."
 ```
 
+### Showcase
+<img width="677" height="494" alt="image" src="https://github.com/user-attachments/assets/179c6ac1-4bca-49a7-950b-b69d5e59209c" />
+
 ## Showcase
 
 [screenshot](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/images/image2.png)
