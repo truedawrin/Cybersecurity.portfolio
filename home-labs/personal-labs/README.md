@@ -54,6 +54,6 @@ These labs may cover:
 
 ## 🧪 Labs
 
-| Lab                                                                | Category | Skills       | Status        |
-| ------------------------------------------------------------------ | -------- | ------------ | ------------- |
-| [Recon Notebook](home-labs/personal-labs/python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progrss |
+| Lab                                                                | Category | Skills       | Status         |
+| ------------------------------------------------------------------ | -------- | ------------ | -------------  |
+| [Recon Notebook](home-labs/personal-labs/python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progress |
