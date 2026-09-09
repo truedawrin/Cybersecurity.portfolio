@@ -1,4 +1,4 @@
-# try-hack-me-prog
+# Try hack me progression
 Documenting my cybersecurity learning journey through TryHackMe rooms — 
 focused on the Junior pen testing / red team path.
 I will only make Write ups for actual important rooms and rooms that teaches me something new.
