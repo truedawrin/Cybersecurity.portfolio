@@ -3,7 +3,9 @@ Documenting my cybersecurity learning journey through TryHackMe rooms —
 focused on the Junior pen testing / red team path.
 I will only make Write ups for actual important rooms and rooms that teaches me something new.
 
-🔗 My TryHackMe Profile: [Profile](https://tryhackme.com/p/truedawrin)
+### Profile
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/truedawrin)
+
 
 ## Progress
 
