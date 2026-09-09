@@ -31,4 +31,4 @@ fi
 
 # Showcase
 
-[screenshot](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/images/image.png)
+<img width="332" height="93" alt="image" src="https://github.com/user-attachments/assets/fbe28cf4-e70a-4f1f-aa56-3fe4bdbb1574" />
