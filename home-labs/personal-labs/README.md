@@ -15,6 +15,11 @@ Each lab is designed around a specific scenario, objective, or security problem.
 **Learn → Build → Investigate → Solve → Document → Improve**
 
 ---
+## 🧪 Labs
+
+| Lab                                                                | Category | Skills       | Status         |
+| ------------------------------------------------------------------ | -------- | ------------ | -------------  |
+| [Recon Notebook](home-labs/personal-labs/python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progress |
 
 ## 🧠 Skills Practiced
 
@@ -52,8 +57,11 @@ These labs may cover:
 
 ---
 
+<<<<<<< HEAD
 ## 🧪 Labs
 
 | Lab                                        | Category | Skills       | Status        |
 | ------------------------------------------ | -------- | ------------ | ------------- |
 | [Recon Notebook](python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progrss |
+=======
+>>>>>>> 16a076f2135bdb417fe35d2f8d00636bbf4aedcb
