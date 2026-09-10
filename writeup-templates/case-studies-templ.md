@@ -1,4 +1,4 @@
-# 🔎 <CASE STUDY TITLE>
+# 🔎 CASE STUDY TITLE
 
 > <One-sentence description of the security scenario>
 
