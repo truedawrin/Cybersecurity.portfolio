@@ -15,11 +15,13 @@ Each lab is designed around a specific scenario, objective, or security problem.
 **Learn → Build → Investigate → Solve → Document → Improve**
 
 ---
+
 ## 🧪 Labs
 
-| Lab                                                                | Category          | Skills       | Status         |
-| ------------------------------------------------------------------ | --------          | ------------ | -------------  |
-| [Recon Notebook](python/recon-notebook.md) | Python   | Log Analysis | 🟢 Completed    |
+| Lab                                                             | Category | Skills       | Status       | Difficulty |
+| --------------------------------------------------------------- | -------- | ------------ | ------------ | ---------- |
+| [Recon Notebook](python/0.1-Recon-Note-Book.md)                 | Python   | Log Analysis | 🟢 Completed | Easy       |
+| [Student Grade Auditor](python/0.2-Student-Grade-Auditor.md.md) | Python   | automation   | 🟢 Completed | Easy       |
 
 ## 🧠 Skills Practiced
 
