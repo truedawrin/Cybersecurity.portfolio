@@ -20,8 +20,8 @@ Each lab is designed around a specific scenario, objective, or security problem.
 
 | Lab                                                             | Category | Skills       | Status       | Difficulty |
 | --------------------------------------------------------------- | -------- | ------------ | ------------ | ---------- |
-| [Recon Notebook](python/0.1-Recon-Note-Book.md)                 | Python   | Log Analysis | 🟢 Completed | Easy       |
-| [Student Grade Auditor](python/0.2-Student-Grade-Auditor.md.md) | Python   | automation   | 🟢 Completed | Easy       |
+| [Recon Notebook](python/0.1-Recon-Note-Book.md)                 | Python   | Log Analysis |  Completed | 🟡 Intermediate |
+| [Student Grade Auditor](python/0.2-Student-Grade-Auditor.md) | Python   | automation   |  Completed | 🟡 Intermediate       |
 
 ## 🧠 Skills Practiced
 
