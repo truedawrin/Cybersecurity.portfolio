@@ -39,7 +39,7 @@ except PermissionError:
 
 ## 🧪 Practical Example
 
-Home Lab 3.1 ("Recon Notebook") — a script storing a list of target hosts as dictionaries, formatting and printing each one, and saving the same output to a report file, with `try`/`except` guarding the file write.
+Home Lab 3.1 [Recon Notebook](home-labs/personal-labs/python/recon-notebook.md) — a script storing a list of target hosts as dictionaries, formatting and printing each one, and saving the same output to a report file, with `try`/`except` guarding the file write.
 
 ## ⚠️ Common Mistakes
 
