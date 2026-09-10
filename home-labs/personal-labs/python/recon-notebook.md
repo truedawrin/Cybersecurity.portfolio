@@ -76,6 +76,11 @@ Notes: workspace
 
 Terminal output and `recon_report.txt` matched exactly.
 
+## Evidence
+<img width="646" height="332" alt="image" src="https://github.com/user-attachments/assets/b5f8368c-b6dd-4245-b90f-4827ac0692b6" />
+
+
+
 ## 🧠 What I Learned
 
 - Separating presentation from persistence, while driving both from one function, avoids duplicated logic
