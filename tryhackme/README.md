@@ -9,7 +9,7 @@ I will only make Write ups for actual important rooms and rooms that teaches me 
 
 ## Progress
 
-|Path | Room | Path | Status | Write-Up |
+|Path | Room | Concept | Status | Write-Up |
 |---|---   |---   |---     |---       |
 |Cyber security 101| Offensive Security Intro | Red Team | ✅ Complete | [Link](Cyber\Security\101/01.offensive-security-intro.md)
 |Cyber security 101| Defensive Security Intro | Blue Team| ✅ Complete | [Link](Cyber\Security\101/02.defensive-security-intro.md)
