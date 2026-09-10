@@ -17,9 +17,9 @@ Each lab is designed around a specific scenario, objective, or security problem.
 ---
 ## 🧪 Labs
 
-| Lab                                                                | Category | Skills       | Status         |
-| ------------------------------------------------------------------ | -------- | ------------ | -------------  |
-| [Recon Notebook](python/recon-notebook.md) | Python   | Log Analysis | 🟡 In Progress |
+| Lab                                                                | Category          | Skills       | Status         |
+| ------------------------------------------------------------------ | --------          | ------------ | -------------  |
+| [Recon Notebook](python/recon-notebook.md) | Python   | Log Analysis | 🟢 Completed    |
 
 ## 🧠 Skills Practiced
 
