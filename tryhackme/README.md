@@ -9,14 +9,14 @@ I will only make Write ups for actual important rooms and rooms that teaches me 
 
 ## Progress
 
-| Room | Path | Status | Write-Up |
-|---   |---   |---     |---       |
-| Offensive Security Intro | Red Team | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/offensive-security-intro.md)
-| Defensive Security Intro | Blue Team| ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/defensive-security-intro.md)
-| Search Skills | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/search-skills.md)
-| Linux Fundamentals Part 1 | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/linux-fundamentals(pt1).md)
-| Windows Fundamentals Part 1 | General | ✅ Complete | [Link](https://github.com/truedawrin/soc-analyst.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/windows-fundamentals-1.md)
-| Windows Fundamentals Part 2 | General | ✅ Complete | [Link](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/tryhackme.prog/Cyber%20Security%20101/windows-fundamentals-2.md)
+|Path | Room | Concept | Status | Write-Up |
+|---|---   |---   |---     |---       |
+|Cyber security 101| Offensive Security Intro | Red Team | ✅ Complete | [Link](Cyber\Security\101/01.offensive-security-intro.md)
+|Cyber security 101| Defensive Security Intro | Blue Team| ✅ Complete | [Link](Cyber\Security\101/02.defensive-security-intro.md)
+|Cyber security 101| Search Skills | General | ✅ Complete | [Link](Cyber\Security\101/03.search-skills.md)
+|Cyber security 101| Linux Fundamentals Part 1 | General | ✅ Complete | [Link](Cyber\Security\101/04.linux-fundamentals(pt1).md)
+|Cyber security 101| Windows Fundamentals Part 1 | General | ✅ Complete | [Link](Cyber\Security\101/05.windows-fundamentals-1.md)
+|Cyber security 101| Windows Fundamentals Part 2 | General | ✅ Complete | [Link](Cyber\Security\101/06.windows-fundamentals-2.md)
 
 ## What I'm Learning
 
