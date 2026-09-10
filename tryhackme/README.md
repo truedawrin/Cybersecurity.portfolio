@@ -11,12 +11,12 @@ I will only make Write ups for actual important rooms and rooms that teaches me 
 
 |Path | Room | Concept | Status | Write-Up |
 |---|---   |---   |---     |---       |
-|Cyber security 101| Offensive Security Intro | Red Team | ✅ Complete | [Link](Cyber\Security\101/01.offensive-security-intro.md)
-|Cyber security 101| Defensive Security Intro | Blue Team| ✅ Complete | [Link](Cyber\Security\101/02.defensive-security-intro.md)
-|Cyber security 101| Search Skills | General | ✅ Complete | [Link](Cyber\Security\101/03.search-skills.md)
-|Cyber security 101| Linux Fundamentals Part 1 | General | ✅ Complete | [Link](Cyber\Security\101/04.linux-fundamentals(pt1).md)
-|Cyber security 101| Windows Fundamentals Part 1 | General | ✅ Complete | [Link](Cyber\Security\101/05.windows-fundamentals-1.md)
-|Cyber security 101| Windows Fundamentals Part 2 | General | ✅ Complete | [Link](Cyber\Security\101/06.windows-fundamentals-2.md)
+|Cyber security 101| Offensive Security Intro | Red Team | ✅ Complete | [Link](tryhackme/Cyber-Security-101/01.offensive-security-intro.md)
+|Cyber security 101| Defensive Security Intro | Blue Team| ✅ Complete | [Link](tryhackme/Cyber-Security-101/02.defensive-security-intro.md)
+|Cyber security 101| Search Skills | General | ✅ Complete | [Link](tryhackme/Cyber-Security-101/03.search-skills.md)
+|Cyber security 101| Linux Fundamentals Part 1 | General | ✅ Complete | [Link](tryhackme/Cyber-Security-101/04.linux-fundamentals(pt1).md)
+|Cyber security 101| Windows Fundamentals Part 1 | General | ✅ Complete | [Link](tryhackme/Cyber-Security-101/05.windows-fundamentals-1.md)
+|Cyber security 101| Windows Fundamentals Part 2 | General | ✅ Complete | [Link](tryhackme/Cyber-Security-101/06.windows-fundamentals-2.md)
 
 ## What I'm Learning
 
