@@ -78,7 +78,8 @@ Terminal output and `recon_report.txt` matched exactly.
 
 ## Evidence
 <img width="646" height="332" alt="image" src="https://github.com/user-attachments/assets/b5f8368c-b6dd-4245-b90f-4827ac0692b6" />
-<img width="646" height="332" alt="image" src="https://github.com/user-attachments/assets/ffc5699d-3b7a-4103-90b9-68bfbf021c12" />
+<img width="1120" height="352" alt="image" src="https://github.com/user-attachments/assets/85bdfab5-1117-44f1-bc55-a3e29b587744" />
+
 
 
 
