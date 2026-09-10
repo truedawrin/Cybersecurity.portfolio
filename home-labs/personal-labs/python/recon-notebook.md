@@ -1,8 +1,8 @@
 # 🧪 Recon Notebook
 
-Type: Red Team/Blue Team
-Difficulty: Intermediate
-Status: Completed
+- Type: Red Team/Blue Team
+- Difficulty: Intermediate
+- Status: Completed
 
 ## 🎬 Scenario
 
@@ -75,6 +75,12 @@ Notes: workspace
 ```
 
 Terminal output and `recon_report.txt` matched exactly.
+
+## Evidence
+<img width="646" height="332" alt="image" src="https://github.com/user-attachments/assets/b5f8368c-b6dd-4245-b90f-4827ac0692b6" />
+<img width="646" height="332" alt="image" src="https://github.com/user-attachments/assets/ffc5699d-3b7a-4103-90b9-68bfbf021c12" />
+
+
 
 ## 🧠 What I Learned
 
