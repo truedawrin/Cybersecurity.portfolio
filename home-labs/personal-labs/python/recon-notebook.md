@@ -82,8 +82,7 @@ Terminal output and `recon_report.txt` matched exactly.
 
 ### Script path
 
-[script](Cybersecurity.portfolio/scripts/python/recon-notebook.py)
-
+[script](scripts/python/recon-notebook.py)
 
 ## 🧠 What I Learned
 
