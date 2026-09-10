@@ -1,8 +1,8 @@
 # 🧪 Recon Notebook
 
-Type: Red Team/Blue Team
-Difficulty: Intermediate
-Status: Completed
+- Type: Red Team/Blue Team
+- Difficulty: Intermediate
+- Status: Completed
 
 ## 🎬 Scenario
 
