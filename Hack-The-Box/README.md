@@ -29,7 +29,7 @@ _These are the structured curriculums. Each path contains multiple modules._
 
 | Module                        | Concept |  Status   | Write-Up                                                                          |
 | :---------------------------- | :------ | :-------: | :-------------------------------------------------------------------------------- |
-| Intro to Information Security | _Info_  | Completed | [Link](./Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
+| Intro to Information Security | _Info_  | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
 
 ### 📚 HTB Academy — Standalone Modules
 
