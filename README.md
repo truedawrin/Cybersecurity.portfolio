@@ -9,7 +9,7 @@
 [![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](knowledge/bash/README.md)
 [![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white)](knowledge/networking/README.md)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](tryhackme/README.md)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](hackthebox/README.md)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](Hack-The-Box/README.md)
 
 ## 👋 About
 
@@ -87,13 +87,13 @@ A Bash utility designed to rapidly create files and directories through a small 
 
 ## 🧪 Home Labs
 
-| Lab                                                            | Status         | Purpose
-| -------------------------------------------------------------- | -------------- | -------------------------------------------                     |
-| [Kali Linux Lab](home-labs/kali-linux/README.md)               | 🟡 In Progress | Practice offensive security tools in an isolated VM             |
-| [Networking](home-labs/networking/README.md)                   | 🟡 In Progress | Learn addressing, interfaces, routing, ARP, and traffic         | 
-| [SOC Lab](home-labs/soc-lab/README.md)                         | 🔴 Planned     | Build and manage safe security testing environments             |
-| [Virtualization](home-labs/virtualization/README.md)           | 🔴 Planned     | Future lab for logs, detection, investigation, and SIEM practice|
-| [Personal Lab](home-labs/personal-labs/README.md)              | 🟢 Active      | Self-created security scenarios                                 |
+| Lab                                                  | Status         | Purpose                                                          |
+| ---------------------------------------------------- | -------------- | ---------------------------------------------------------------- |
+| [Kali Linux Lab](home-labs/kali-linux/README.md)     | 🟡 In Progress | Practice offensive security tools in an isolated VM              |
+| [Networking](home-labs/networking/README.md)         | 🟡 In Progress | Learn addressing, interfaces, routing, ARP, and traffic          |
+| [SOC Lab](home-labs/soc-lab/README.md)               | 🔴 Planned     | Build and manage safe security testing environments              |
+| [Virtualization](home-labs/virtualization/README.md) | 🔴 Planned     | Future lab for logs, detection, investigation, and SIEM practice |
+| [Personal Lab](home-labs/personal-labs/README.md)    | 🟢 Active      | Self-created security scenarios                                  |
 
 ## 🧩 TryHackMe
 
@@ -105,7 +105,7 @@ CTF and guided-lab work is documented with an emphasis on **methodology and less
 
 Machine and challenge write-ups will document reconnaissance, enumeration, initial access, privilege escalation, evidence, remediation, and lessons learned.
 
-→ [Hack The Box workspace](hackthebox/README.md)
+→ [Hack The Box workspace](Hack-The-Box/README.md)
 
 ## 📚 Knowledge Base
 
