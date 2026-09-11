@@ -54,19 +54,3 @@ My goal is to document every room I complete, extracting the core concepts and c
 - [ ] Build a home lab for practicing Active Directory attacks.
 - [ ] Obtain a certification (e.g., CompTIA Security+, eJPT).
 
----
-
-## 📁 Repository Structure
-
-```text
-.
-├── Pre-Security/
-│   ├── 01.offensive-security-intro.md
-│   └── 02.defensive-security-intro.md
-├── Cyber-Security-101/
-│   ├── 01.linux-fundamentals-pt1.md
-│   ├── 02.windows-fundamentals-1.md
-│   └── 03.windows-fundamentals-2.md
-└── Jr-penetration-tester/
-    └── 01.search-skills.md
-```
