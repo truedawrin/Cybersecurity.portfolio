@@ -23,10 +23,12 @@ My goal is to document every room I complete, extracting the core concepts and c
 
 ### 🛡️ Pre Security
 
-| Room                     | Concept   |   Status    | Write-Up                                              |
-| :----------------------- | :-------- | :---------: | :---------------------------------------------------- |
-| Offensive Security Intro | Red Team  | ✅ Complete | [Link](./Pre-Security/01.offensive-security-intro.md) |
-| Defensive Security Intro | Blue Team | ✅ Complete | [Link](./Pre-Security/01.defensive-security-intro.md) |
+| Room                           | Concept   |   Status    | Write-Up                                                 |
+| :----------------------------- | :-------- | :---------: | :------------------------------------------------------- |
+| Offensive Security Intro       | Red Team  | ✅ Complete | [Link](./Pre-Security/01.offensive-security-intro.md)    |
+| Defensive Security Intro       | Blue Team | ✅ Complete | [Link](./Pre-Security/01.defensive-security-intro.md)    |
+| Inside a computer system       | Systems   | ✅ Complete | [Link](./Pre-Security/03.inside-a-computer-system.md)    |
+| Operating Systems introduction | Os        | ✅ Complete | [Link](./Pre-Security/04.operating-systems-introduction) |
 
 ### 🐧 Cyber Security 101
 
