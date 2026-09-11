@@ -32,7 +32,7 @@ A Python port scanner using socket.SOCK_STREAM operates at:
 ```
 
 ## 🧪 Practical Example
-Annotated a [Python port scanner](/projects/python/port-scanner.md) line by line, identifying which OSI/TCP-IP layer each part (socket creation, IP address, port, connection attempt) operates at.
+Annotated a [Python port scanner](/projects/python/01.port-scanner.md) line by line, identifying which OSI/TCP-IP layer each part (socket creation, IP address, port, connection attempt) operates at.
 
 ## ⚠️ Common Mistakes
 - Assuming a tool "sees the whole stack" instead of recognizing it typically operates at one or two specific layers
