@@ -9,7 +9,7 @@
 [![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](knowledge/bash/README.md)
 [![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white)](knowledge/networking/README.md)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](tryhackme/README.md)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](Hack-The-Box/README.md)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](hack-the-box/README.md)
 
 ## 👋 About
 
@@ -105,7 +105,7 @@ CTF and guided-lab work is documented with an emphasis on **methodology and less
 
 Machine and challenge write-ups will document reconnaissance, enumeration, initial access, privilege escalation, evidence, remediation, and lessons learned.
 
-→ [Hack The Box workspace](Hack-The-Box/README.md)
+→ [Hack The Box workspace](hack-the-box/README.md)
 
 ## 📚 Knowledge Base
 
