@@ -27,9 +27,9 @@ My goal is to document every room I complete, extracting the core concepts and c
 | :----------------------------- | :------------ | :---------: | :------------------------------------------------------- |
 | Offensive Security Intro       | Red Team      | ✅ Complete | [Link](./Pre-Security/01.offensive-security-intro.md)    |
 | Defensive Security Intro       | Blue Team     | ✅ Complete | [Link](./Pre-Security/01.defensive-security-intro.md)    |
-| Carrers In Cyber               | Cybersecurity | ✅ Complete | [Link](./Pre-Security/05.carrers-in-cyber.md)            |
-| Inside a computer system       | Systems       | ✅ Complete | [Link](./Pre-Security/03.inside-a-computer-system.md)    |
-| Operating Systems introduction | Os            | ✅ Complete | [Link](./Pre-Security/04.operating-systems-introduction) |
+| Carrers In Cyber               | Cybersecurity | ✅ Complete | [Link](./Pre-Security/03.carrers-in-cyber.md)            |
+| Inside a computer system       | Systems       | ✅ Complete | [Link](./Pre-Security/04.inside-a-computer-system.md)    |
+| Operating Systems introduction | Os            | ✅ Complete | [Link](./Pre-Security/05.operating-systems-introduction) |
 
 ### 🐧 Cyber Security 101
 
