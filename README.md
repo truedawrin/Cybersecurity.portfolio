@@ -214,6 +214,7 @@ Every serious project or write-up should aim to contain:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-truedawrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truedawrin)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawrin_Balram_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawrin-balram-paul-1734b7428)
+- [![Email](https://img.shields.io/badge/Email-dawrin.p.tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawrin.p.tech@gmail.com)
 
 ---
 
