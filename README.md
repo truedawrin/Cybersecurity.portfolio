@@ -118,6 +118,7 @@ Machine and challenge write-ups will document reconnaissance, enumeration, initi
 - [Cybersecurity Fundamentals](knowledge/cybersecurity/README.md)
 - [Web Security](knowledge/web/README.md)
 - [SQL & Databases](knowledge/sql/README.md)
+- [Windows](knowledge/windows/windows-fundamentals.md)
 
 ### Methodology
 
