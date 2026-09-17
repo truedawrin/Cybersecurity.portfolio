@@ -27,9 +27,10 @@ _These are the structured curriculums. Each path contains multiple modules._
 
 - ### 🖥️ Junior Cybersecurity Analyst
 
-| Module                        | Concept |  Status   | Write-Up                                                                          |
-| :---------------------------- | :------ | :-------: | :-------------------------------------------------------------------------------- |
-| Intro to Information Security | _Info_  | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
+| Module                        | Concept            |  Status   | Write-Up                                                                                         |
+| :---------------------------- | :----------------- | :-------: | :----------------------------------------------------------------------------------------------- |
+| Intro to Information Security | _Info_             | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
+| Network Foundations           | Theory & Questions | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.2-network-foundations.md)                 |
 
 ### 📚 HTB Academy — Standalone Modules
 
@@ -44,10 +45,9 @@ _Modules that are not part of a larger path, used for specific skill building._
 
 _The structured introduction to HTB Labs. Machines here are guided and teach fundamental enumeration and exploitation methodology._
 
-| Tier   | Machine         |  OS   | Concepts       |   Status   | Write-Up |
-| :----- | :-------------- | :---: | :------------- | :--------: | :------- |
-| Tier 0 | _Example: Meow_ | Linux | Telnet, Root   | ⬜ Planned | [Link]() |
-| Tier 0 | _Example: Fawn_ | Linux | FTP, Anonymous | ⬜ Planned | [Link]() |
+| Tier   | Machine |  OS   | Concepts     |  Status   | Write-Up                                      |
+| :----- | :------ | :---: | :----------- | :-------: | :-------------------------------------------- |
+| Tier 0 | _Meow_  | Linux | Telnet, Root | Completed | [Link](./HTB-labs/starting-point/0.1-Meow.md) |
 
 ### 💻 HTB Labs — Machines
 
