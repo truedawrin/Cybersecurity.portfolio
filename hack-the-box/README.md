@@ -32,14 +32,6 @@ _These are the structured curriculums. Each path contains multiple modules._
 | Intro to Information Security | _Info_             | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
 | Network Foundations           | Theory & Questions | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.2-network-foundations.md)                 |
 
-### 📚 HTB Academy — Standalone Modules
-
-_Modules that are not part of a larger path, used for specific skill building._
-
-| Module                          | Concept   |   Status   | Write-Up |
-| :------------------------------ | :-------- | :--------: | :------- |
-| _Example: Linux Fundamentals_   | _Linux_   | ⬜ Planned | [Link]() |
-| _Example: Windows Fundamentals_ | _Windows_ | ⬜ Planned | [Link]() |
 
 ### 💻 HTB Labs — Starting Point
 
@@ -55,7 +47,7 @@ _The core of HTB Labs. Un-guided, realistic vulnerable machines requiring full e
 
 | Machine                       |  OS   | Difficulty | Concepts / Tags |   Status   | Write-Up |
 | :---------------------------- | :---: | :--------: | :-------------- | :--------: | :------- |
-| _Add your first machine here_ | Linux |    Easy    | e.g., Web, SUID | ⬜ Planned | [Link]() |
+| _Add your first machine here_ | Linux |    Easy    | e.g., Web, SUID | ⬜ Planned | |
 
 ---
 
