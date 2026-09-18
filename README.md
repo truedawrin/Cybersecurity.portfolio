@@ -8,8 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)](knowledge/python/README.md)
 [![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)](knowledge/bash/README.md)
 [![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white)](knowledge/networking/README.md)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white)](tryhackme/README.md)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111827?style=for-the-badge&logo=hackthebox&logoColor=white)](hack-the-box/README.md)
+[![Hack The Box](https://img.shields.io/badge/View%20My%20HTB%20Profile-1F242F?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
+[![TryHackMe](https://img.shields.io/badge/View%20My%20TryHackMe%20Profile-1F242F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/truedawrin)
 
 ## 👋 About
 
@@ -118,6 +118,7 @@ Machine and challenge write-ups will document reconnaissance, enumeration, initi
 - [Cybersecurity Fundamentals](knowledge/cybersecurity/README.md)
 - [Web Security](knowledge/web/README.md)
 - [SQL & Databases](knowledge/sql/README.md)
+- [Windows](knowledge/windows/windows-fundamentals.md)
 
 ### Methodology
 
@@ -213,6 +214,7 @@ Every serious project or write-up should aim to contain:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-truedawrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truedawrin)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawrin_Balram_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawrin-balram-paul-1734b7428)
+- [![Email](https://img.shields.io/badge/Email-dawrin.p.tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawrin.p.tech@gmail.com)
 
 ---
 

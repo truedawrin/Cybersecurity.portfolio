@@ -32,14 +32,6 @@ _These are the structured curriculums. Each path contains multiple modules._
 | Intro to Information Security | _Info_             | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.1Introduction-to-Information-Security.md) |
 | Network Foundations           | Theory & Questions | Completed | [Link](./Learning-Paths/Junior-Cybersecurity-Analyst/0.2-network-foundations.md)                 |
 
-## 💻 HTB Labs — Machines
-
-_The core of HTB Labs. Un-guided, realistic vulnerable machines requiring full enumeration and exploitation._
-
-| Machine |  OS   | Difficulty | Concepts / Tags |  Status   | Write-Up                              |
-| :------ | :---: | :--------: | :-------------- | :-------: | :------------------------------------ |
-| Cap     | Linux |    Easy    | python,web      | Completed | [Link](./HTB-labs/machines/01.cap.md) |
-
 ### 💻 HTB Labs — Starting Point
 
 _The structured introduction to HTB Labs. Machines here are guided and teach fundamental enumeration and exploitation methodology._
@@ -47,8 +39,6 @@ _The structured introduction to HTB Labs. Machines here are guided and teach fun
 | Tier   | Machine |  OS   | Concepts     |  Status   | Write-Up                                      |
 | :----- | :------ | :---: | :----------- | :-------: | :-------------------------------------------- |
 | Tier 0 | _Meow_  | Linux | Telnet, Root | Completed | [Link](./HTB-labs/starting-point/0.1-Meow.md) |
-
-#
 
 ---
 
