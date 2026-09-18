@@ -21,6 +21,13 @@ My goal is to document every room I complete, extracting the core concepts and c
 
 ## 📂 Progress Tracker
 
+### ⚔️ Jr Penetration Tester
+
+| Room               | Concept      |  Status  | Write-Up                                                 |
+| :----------------- | :----------- | :------: | :------------------------------------------------------- |
+| Search Skills      | OSINT        | Complete | [Link](./Jr-penetration-tester/01.search-skills.md)      |
+| Guided Pentest:Web | Web security | Complete | [Link](./Jr-penetration-tester/02.guided-pentest-web.md) |
+
 ### 🛡️ Pre Security
 
 | Room                           | Concept       |   Status    | Write-Up                                                 |
@@ -38,12 +45,6 @@ My goal is to document every room I complete, extracting the core concepts and c
 | Linux Fundamentals Part 1   | Linux   | ✅ Complete | [Link](./Cyber-Security-101/01.linux-fundamentals-pt1.md) |
 | Windows Fundamentals Part 1 | Windows | ✅ Complete | [Link](./Cyber-Security-101/02.windows-fundamentals-1.md) |
 | Windows Fundamentals Part 2 | Windows | ✅ Complete | [Link](./Cyber-Security-101/03.windows-fundamentals-2.md) |
-
-### ⚔️ Jr Penetration Tester
-
-| Room          | Concept |   Status    | Write-Up                                            |
-| :------------ | :------ | :---------: | :-------------------------------------------------- |
-| Search Skills | OSINT   | ✅ Complete | [Link](./Jr-penetration-tester/01.search-skills.md) |
 
 ---
 
