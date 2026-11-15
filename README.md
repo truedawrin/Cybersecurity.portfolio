@@ -75,7 +75,7 @@ A Bash-based network discovery utility for identifying live hosts on an authoriz
 
 **Demonstrates:** Bash scripting, IP addressing, loops, automation, network reconnaissance.
 
-→ [Project documentation](projects/bash-projects/ip-sweep/README.md)
+→ [Project documentation](projects/bash-projects/01.ip-sweep.md)
 
 ### 🧱 True Touch
 
@@ -83,7 +83,7 @@ A Bash utility designed to rapidly create files and directories through a small 
 
 **Demonstrates:** Bash, input handling, loops, functions, filesystem automation.
 
-→ [Project documentation](projects/bash-projects/true-touch/README.md)
+→ [Project documentation](projects/bash-projects/02.true-touch.md)
 
 ## 🧪 Home Labs
 
