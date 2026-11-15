@@ -1,6 +1,6 @@
-# 🛠️ Projects
+# 🛠️ Practice
 
-Welcome to my **Projects** directory.
+Welcome to my **Practice** directory.
 
 This folder contains all of my projects and experiments as I continue developing my skills in **programming, Linux, networking, and cybersecurity**.
 
