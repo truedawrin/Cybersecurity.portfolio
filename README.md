@@ -69,21 +69,13 @@ I keep a distinction between:
 
 ## 🛠️ Featured Projects
 
-### 🔎 IP Sweep
-
-A Bash-based network discovery utility for identifying live hosts on an authorized subnet.
-
-**Demonstrates:** Bash scripting, IP addressing, loops, automation, network reconnaissance.
-
-→ [Project documentation](projects/bash-projects/01.ip-sweep.md)
-
 ### 🧱 True Touch
 
 A Bash utility designed to rapidly create files and directories through a small interactive prompt flow.
 
 **Demonstrates:** Bash, input handling, loops, functions, filesystem automation.
 
-→ [Project documentation](projects/bash-projects/02.true-touch.md)
+→ [Project documentation](https://github.com/truedawrin/true-touch)
 
 ## 🧪 Home Labs
 
